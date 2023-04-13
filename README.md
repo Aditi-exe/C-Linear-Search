@@ -19,9 +19,9 @@ There are several types of searching algorithms, some of which are listed below:
 
 Linear search is a simple search algorithm that sequentially checks each element in a collection of data until the target item is found or the end of the collection is reached. It has a time complexity of O(n), where n is the number of items in the collection. Linear search is commonly used for small collections or when the data is not sorted, but it may not be efficient for large collections as the search time grows linearly with the size of the collection. Linear search can be implemented using a loop or recursion, and it is easy to understand and implement, making it a basic and commonly used search algorithm.
 
-If a key K = 41 is to be searched in an array, the following process will have to be followed:
+If a key K = 8 is to be searched in an array, the following process will have to be followed:
 
-![Working of linear search](https://static.javatpoint.com/ds/images/linear-search-algorithm3.png)
+![Working of linear search](https://utkarsh1504.github.io/DSA-Java/static/e3fa513b23c9d1e51f3c6f58ef6a9bfc/c1b63/linear-search.png)
 
 An implementation of linear search in C using a function is given below:
 
