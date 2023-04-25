@@ -154,7 +154,7 @@ int main()
 }
 ```
 
-### Output:
+### Outputs:
 
 ![linearSearch.c output](https://github.com/Aditi-exe/C-Linear-Search/blob/main/linearSearch1.PNG)
 
